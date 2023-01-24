@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "[tail]실시간 로그 보기 명령어"
+categories: linux
+tag: [linux, sample, blog]
+toc: true
 ---
 
 리눅스로 로그의 기록을 실시간으로 보려면 tail을 아래와 같이사용해야 한다.
