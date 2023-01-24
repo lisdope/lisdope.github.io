@@ -2,6 +2,9 @@
 layout: single
 title:  "[GIT블로그] 테마 변경, 코드 삽입, SNS 링크 삽입, Pagination 설정"
 categories: gitblog
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # 코드 삽입 방법
